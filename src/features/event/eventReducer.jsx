@@ -23,6 +23,11 @@ const initialState = [
         id: "b",
         name: "Tom",
         photoURL: "https://randomuser.me/api/portraits/men/22.jpg"
+      },
+      {
+        id: "c",
+        name: "Joe",
+        photoURL: "https://randomuser.me/api/portraits/men/24.jpg"
       }
     ]
   },
@@ -47,6 +52,16 @@ const initialState = [
         id: "a",
         name: "Bob",
         photoURL: "https://randomuser.me/api/portraits/men/20.jpg"
+      },
+      {
+        id: "c",
+        name: "Aaron",
+        photoURL: "https://randomuser.me/api/portraits/men/25.jpg"
+      },
+      {
+        id: "d",
+        name: "Mitch",
+        photoURL: "https://randomuser.me/api/portraits/men/26.jpg"
       }
     ]
   }
